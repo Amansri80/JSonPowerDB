@@ -1,1 +1,2 @@
-# JSonPowerDB
+ JSonPowerDB
+ Json is having explosive growth in recent years and is becoming the de-facto standard for storing data and data communications. It is low level (raw) form of data and is also human readable. More and more databases are now partially or fully supporting Json data. A very few are pure JSON databases. JsonPowerDB is one of those rare. On top of it, its World's first IDBMS (Indexed Database Management System) with lightning fast performance. Although it has many unique features, the combination of features is also an USP.
